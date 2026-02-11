@@ -101,11 +101,7 @@ https://chethansheelam.github.io/WeatherApp/
 
 ## 📸 Screenshot
   
-```
-<img width="1866" height="861" alt="Screenshot 2026-02-11 162115" src="https://github.com/user-attachments/assets/675a0372-abe0-41db-9aa6-3dd9ebdf38b9" />
-<img width="1860" height="791" alt="Screenshot 2026-02-11 162200" src="https://github.com/user-attachments/assets/db849d29-85a8-49ad-a393-12a0bcb78c9a" />
-
-```
+<img width="1882" height="1528" alt="image" src="https://github.com/user-attachments/assets/6624a28c-c139-4999-9d4c-9e14e0546d85" />
 
 ---
 
@@ -124,10 +120,3 @@ https://chethansheelam.github.io/WeatherApp/
 **Chethan Sheelam**
 
 - GitHub: https://github.com/chethansheelam
-- Portfolio: *(Optional: Add your portfolio link)*
-
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
