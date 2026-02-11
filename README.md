@@ -102,7 +102,8 @@ https://chethansheelam.github.io/WeatherApp/
 ## 📸 Screenshot
   
 ```
-<img width="1890" height="1547" alt="image" src="https://github.com/user-attachments/assets/f5f608ae-be16-4446-bdc4-b45325efd751" />
+<img width="1866" height="861" alt="Screenshot 2026-02-11 162115" src="https://github.com/user-attachments/assets/675a0372-abe0-41db-9aa6-3dd9ebdf38b9" />
+<img width="1860" height="791" alt="Screenshot 2026-02-11 162200" src="https://github.com/user-attachments/assets/db849d29-85a8-49ad-a393-12a0bcb78c9a" />
 
 ```
 
